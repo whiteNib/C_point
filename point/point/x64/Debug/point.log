@@ -1,0 +1,4 @@
+﻿  point.cpp
+C:\Users\Q\source\repos\point\point\point.cpp(12,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Q\source\repos\point\point\point.cpp(14,7): warning C4101: 'pt' :참조되지 않은 지역 변수입니다.
+  point.vcxproj -> C:\Users\Q\source\repos\point\x64\Debug\point.exe
